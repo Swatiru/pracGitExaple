@@ -3,5 +3,6 @@ public class example {
         System.out.println("i love java");
         System.out.println("i love python");
         System.out.println("i love selenium");
+        System.out.println("new commit by swati");
     }
 }
